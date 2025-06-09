@@ -35,16 +35,6 @@ You can run any of the problems directly from the terminal or a Python IDE:
 - Python 3.x
 - No external libraries required
 
-### File Structure
-girus_technical/
-│
-├── problem1_sudoku_validator.py
-├── problem2_alien_dictionary.py
-├── problem3_knights_and_portals.py
-├── problem4_bitwise_matching.py
-├── problem5_matrix_islands_diagonals.py
-├── bonus_mini_interpreter.py
-└── README.md
 
 ### Example Usage:
 
